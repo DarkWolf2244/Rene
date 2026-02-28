@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "sv": "deno run -A npm:sv"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1"
+  }
+}
